@@ -1,18 +1,15 @@
-title: My Portfolio Site
-profile_img: /assets/img/logo.png
-icon_img: /assets/img/logo.png
+title: Karl Fallenius' Portfolio
+profile_img: /assets/img/my_face.jpeg
+icon_img: /assets/img/KF.svg
 
-name: "Your Name"
-job: "Your Job Title"
+name: "Karl Fallenius"
+job: "Software Gardener"
 
-phone_number: 111-222-3333
-address: City, Country
-email: email@example.com
-linkedin_username: linkedin
-github_username: github
-instagram_username: instagram
-twitter_username: twitter
-facebook_username: facebook
+phone_number: 970.708.3954
+address: Denver, CO
+email: smilodon.p@gmail.com
+linkedin_username: karlfallenius
+github_username: SmilodonP
 
 theme: jekyll-professional-resume
 

@@ -2,20 +2,25 @@ subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "Tracker ([Deployed Site](https://tracker-crm-fe-38f7cf1aaca5.herokuapp.com/))" 
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+      - "[Front End Repo](https://github.com/turingschool/tracker-crm-fe) / [Back End Repo](https://github.com/turingschool/tracker-crm)"
+      - Job application tracking tool designed and built by students to help organize and manage their job search efficiently.
+      - Refactored styling across all show and index pages to match provided mock ups and to be consistent across the application.
+      - "Technology Used: Ruby, Rails, React, Javascript, Typescript, Tailwind"
+    image: "![](assets/img/tracker_image.png)"
+  - title: "MoodBoost ([Deployed Site](https://mood-boost-fe.onrender.com/))"
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
+      - "[Front End Repo](https://github.com/Mood-Boost/mood_boost_fe) / [Back End Repo](https://github.com/Mood-Boost/mood_boost_be)"
+      - Boost your mood with Mood Boost! A fullstack web application that provides its users with breathing exercises, jokes and inspiring quotes. 
+      - Built by a team of 5 over two weeks using React and Rails, this application consumes external APIs from the front end, tracks a modicum of user interactions, and implements some neat animations. 
+      - "Technology Used: Ruby on Rails, React, React Router"
+    image: "![](/assets/img/mooBoo.jpg)"
+  - title: "Poke-gochi ([Front End Repo](https://github.com/jchirch/poke-gochi) / [Back End Repo](https://github.com/jchirch/poke-gochi-api))"
     description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - An interactive Pokemon Tomagotchi mashup game that allows users to care for a whole party of different Pokemon.
+      - Draws on the PokéAPI from the back end for data and assets for different pokemon.
+      - Uses ActiveJobs & Sidekiq to manage time-sensetive data decay.
+      - Designed and implemented code for custom HUD that is reactive to user input and data decay.
+      - "Technology Used: Ruby on Rails, React, Bootstrap, React Router"
+    image: "![](https://i.ibb.co/t4v5yvM/pokescreenshot.png)"
