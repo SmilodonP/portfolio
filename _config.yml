@@ -11,6 +11,10 @@ email: smilodon.p@gmail.com
 linkedin_username: karlfallenius
 github_username: SmilodonP
 
+baseurl: ""
+url: "https://karl-fallenius.dev"
+
+
 theme: jekyll-professional-resume
 
 exclude:
